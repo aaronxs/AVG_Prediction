@@ -1,10 +1,9 @@
 ---
-title: "Sample Project"
+title: "Batting Average Prediction"
 # always_allow_html: yes
 author: "Aaron Situ"
 date: "November 10, 2020"
 output:
-  keep_md: true
   bookdown::html_document2:
     # number_sections: true
     toc: true
